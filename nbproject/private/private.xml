@@ -5,6 +5,7 @@
         <group>
             <file>file:/D:/Sergey/XAMMP_Server/htdocs/login/app/controllers/AccountController.php</file>
             <file>file:/D:/Sergey/XAMMP_Server/htdocs/login/app/config/mail.php</file>
+            <file>file:/D:/Sergey/XAMMP_Server/htdocs/login/app/views/home.blade.php</file>
             <file>file:/D:/Sergey/XAMMP_Server/htdocs/login/app/views/account/create.blade.php</file>
             <file>file:/D:/Sergey/XAMMP_Server/htdocs/login/app/views/emails/auth/test.blade.php</file>
             <file>file:/D:/Sergey/XAMMP_Server/htdocs/login/app/controllers/HomeController.php</file>
